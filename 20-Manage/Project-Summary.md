@@ -1,8 +1,8 @@
-# Project Summary: 260046-SP-99-SandCoKorea-HKK
+# Project Summary: 260046-SE-99-SandCoKorea-HKK
 
 ## Project Overview
 
-**Project ID:** 260046-SP-99-SandCoKorea-HKK
+**Project ID:** 260046-SE-99-SandCoKorea-HKK
 **Project Name:** Hell's Kitchen Korea - Automation System
 **Client:** S&Co Korea
 **Status:** Bidding / Quotation Phase
