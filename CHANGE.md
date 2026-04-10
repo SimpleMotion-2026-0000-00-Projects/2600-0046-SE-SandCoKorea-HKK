@@ -2,6 +2,7 @@
 
 | Version | Hash | Date | Author | Message |
 |---------|------|------|--------|---------|
+| v0.0.1.3 | 222e9e1 | 2026-04-10 13:44 UTC | Greg Gowans | Update .claude submodule to v0.0.1.40 |
 | v0.0.0.15 | 6aae84d | 2026-04-04 22:10 UTC | Greg Gowans | Update CHANGE.md to reflect all tagged commits |
 | v0.0.0.14 | b4716f2 | 2026-04-04 10:41 UTC | Greg Gowans | Update entity code from SP to SE across repo |
 | v0.0.0.13 | 1cd7676 | 2026-04-03 14:03 UTC | Greg Gowans | Remove old ASSIGNMENT.md |
