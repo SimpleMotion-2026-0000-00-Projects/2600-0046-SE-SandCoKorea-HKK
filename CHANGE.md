@@ -2,6 +2,8 @@
 
 | Version | Hash | Date | Author | Message |
 |---------|------|------|--------|---------|
+| v0.0.1.5 | 7f83d20 | 2026-04-20 09:03 UTC | Greg Gowans | Rename phase folder: Engage -> Client |
+| v0.0.1.4 | cf4c555 | 2026-04-20 08:54 UTC | Greg Gowans | Bump .claude to v0.0.1.47 (sm-engage -> sm-client) |
 | v0.0.1.3 | 222e9e1 | 2026-04-10 13:44 UTC | Greg Gowans | Update .claude submodule to v0.0.1.40 |
 | v0.0.0.15 | 6aae84d | 2026-04-04 22:10 UTC | Greg Gowans | Update CHANGE.md to reflect all tagged commits |
 | v0.0.0.14 | b4716f2 | 2026-04-04 10:41 UTC | Greg Gowans | Update entity code from SP to SE across repo |
